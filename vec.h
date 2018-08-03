@@ -5,7 +5,7 @@
 #include<cstdlib>
 
 
-
+//update 2 haha fro github
 
 template <class T> class vec {
 public:
