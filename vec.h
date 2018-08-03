@@ -191,3 +191,5 @@ typename vec<T>::iterator vec<T>::destroy(iterator pos)
 	}
 	return fakelimit;
 }
+
+//yolo for git
